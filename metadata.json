@@ -1,0 +1,5 @@
+{
+  "name": "Physics Projectile Motion Simulation",
+  "description": "An interactive physics simulation that allows users to explore projectile motion. Adjust parameters like initial speed, angle, mass, and air resistance to observe their effects on the trajectory of a cannonball.",
+  "requestFramePermissions": []
+}
